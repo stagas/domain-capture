@@ -37,7 +37,7 @@ fn('oh', function(err){
 
 ## API
 
-### capture(fn)
+### fn = capture(fn)
 
 Decorates an async `fn` inside a domain
 context, disposes the domain and callbacks
