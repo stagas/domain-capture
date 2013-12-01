@@ -1,0 +1,15 @@
+{
+  "name": "domain-capture",
+  "repo": "stagas/domain-capture",
+  "version": "0.0.1",
+  "author": "stagas",
+  "description": "decorates a function in a domain",
+  "keywords": ["domain", "error"],
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "once": "~1.3.0",
+    "slice-arguments": "~0.0.1"
+  },
+  "engines": { "node": "*" }
+}
